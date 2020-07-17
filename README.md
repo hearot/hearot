@@ -5,7 +5,7 @@ I am Gabriel (also known as *Hearot*), an italian student who aims at seeking th
 
 - 🥇 I am currently improving my knowledge of competitive programming, striving to understand classic data structures and algorithms.
 - 🤖 I have recently contributed to [Pyrubrum](https://github.com/hearot/pyrubrum).
-- 📖 I am also running a blog on [hearot.it](hearot.it).
+- 📖 I am also running a blog on [hearot.it](https://hearot.it).
 - 👓 I am studying on books such as [The C Programming Language (K&R)](https://en.wikipedia.org/wiki/The_C_Programming_Language) and [The C++ Programming Language](https://en.wikipedia.org/wiki/The_C%2B%2B_Programming_Language), while enjoying reading about the great deeds of [Attack on Titan (Shingeki no Kyojin)](https://en.wikipedia.org/wiki/Attack_on_Titan) and [Hell's Paradise: Jigokuraku](https://en.wikipedia.org/wiki/Hell%27s_Paradise:_Jigokuraku).
 - ❔ The name *Hearot* has no true meaning, since it came to my mind randomly. Yet there does exist a mythological place named [Heorot](https://en.wikipedia.org/wiki/Heorot), which, unfortunately, is not related to me...unless!?
 - 🎙️ Hearot is pronunced [*/hirot/*](http://ipa-reader.xyz/?text=hirot).
