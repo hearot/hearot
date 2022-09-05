@@ -1,12 +1,27 @@
 # hearot
-[![Telegram Badge](https://img.shields.io/badge/-hearot-1f7ba3?style=flat-square&labelColor=1f7ba3&logo=telegram&logoColor=white&link=https://t.me/hearot)](https://t.me/hearot) [![Discord Badge](https://img.shields.io/badge/-Gab%235737-404eed?style=flat-square&labelColor=404eed&logo=discord&logoColor=white&link=https://discord.com/users/466717564899295234)](https://discord.com/users/466717564899295234) [![Linkedin Badge](https://img.shields.io/badge/-hearot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-videtta-261904165/)](https://www.linkedin.com/in/gabriel-videtta-261904165/) [![Email Badge](https://img.shields.io/badge/-gabriel@hearot.it-c14438?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:gabriel@hearot.it)](mailto:gabriel@hearot.it) [![Goodreads Badge](https://img.shields.io/badge/-Gabriel%20(hearot)-666E6E?style=flat-square&labelColor=666E6E&logo=goodreads&logoColor=white&link=https://www.goodreads.com/user/show/119841930-gabriel)](https://www.goodreads.com/user/show/119841930-gabriel) [![Anilist Badge](https://img.shields.io/badge/-hearot-151f2e?style=flat-square&labelColor=151f2e&logo=anilist&logoColor=white&link=https://anilist.co/user/hearot/)](https://anilist.co/user/hearot/)
+[![Telegram Badge](https://img.shields.io/badge/-hearot-1f7ba3?style=flat-square&labelColor=1f7ba3&logo=telegram&logoColor=white&link=https://t.me/hearot)](https://t.me/hearot) [![Discord Badge](https://img.shields.io/badge/-Gab%235737-404eed?style=flat-square&labelColor=404eed&logo=discord&logoColor=white&link=https://discord.com/users/466717564899295234)](https://discord.com/users/466717564899295234) [![Linkedin Badge](https://img.shields.io/badge/-hearot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-videtta-261904165/)](https://www.linkedin.com/in/gabriel-videtta-261904165/) [![Email Badge](https://img.shields.io/badge/-gabriel@hearot.it-c14438?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:gabriel@hearot.it)](mailto:gabriel@hearot.it) [![Anilist Badge](https://img.shields.io/badge/-hearot-151f2e?style=flat-square&labelColor=151f2e&logo=anilist&logoColor=white&link=https://anilist.co/user/hearot/)](https://anilist.co/user/hearot/)
 
-I am **Gabriel** (also known as *hearot*), an italian boy who just finds programming relaxing. I'm a huge fan of mathematics, and you will surely find what I've thought so far on [my personal website](https://hearot.it).
+<p align="center"><img src="https://hearot.it/images/transparent_stroke_pfp.png" style="max-width: 100%; height: auto; width: 200px"/></p>
 
-- 🤖 I'm working on personal projects right now, yet I have contributed to [Pyrubrum](https://github.com/hearot/pyrubrum), which I recommend you to check out.
-- 📖 I am also running a blog on [hearot.it](https://hearot.it).
-- 👓 I enjoy reading about the great deeds from [Attack on Titan (Shingeki no Kyojin)](https://en.wikipedia.org/wiki/Attack_on_Titan)! Though, I am not a weeb (not anymore, at least!) and I seldom read some manga, meaning that I'm actually reading books rather than manga at the moment, as you might know if you followed me on my [Goodreads profile](https://www.goodreads.com/user/show/119841930-gabriel).
-- ❔ The name *hearot* has no true meaning, since it came to my mind randomly. Yet there does exist a mythological place named [Heorot](https://en.wikipedia.org/wiki/Heorot), which, unfortunately, is not related to me... unless!?
-- 🎙️ hearot is pronounced [*/hirot/*](http://ipa-reader.xyz/?text=hirot).
+<p align="center">✨ heyo ✨</p>
 
-> “God exists since mathematics is consistent, and the Devil exists since we cannot prove it.”<br>\- *André Weil*
+as you probably already know, i'm gabriel (aka hearot). there is no meaning behind
+my username, since plenty of people have already asked me (nay, it does not come
+from beowulf either). it is just a random name i made up when i was a kid.
+i live near florence, italy.
+
+i'm not a computer science student, nor a programmer, nor a software engineer.
+i'm a maths student at the [university of pisa](https://www.dm.unipi.it/en/).
+nevertheless i'm used to coding scripts and programs whenever i'm feeling to
+(this website is not an exception either). you may find some excerpts of my code
+here on github.
+
+i enjoy playing some videogames, but
+i wouldn't call myself a gamer. i'm a big fan of formula 1, though. i support
+the ferrari f1 team, and i enjoy watching (almost) every grand prix.
+
+i'm an old fan of telegram, which explains why i'm using it all the time.
+in fact, my first script was a telegram bot that i wrote in php.
+then, i fell in love with python; thus i attended multiple conferences
+regarding it (pycon nove, pycon x, pycon 22) as well as other
+events (golab 2018, golab 2019).
