@@ -3,25 +3,18 @@
 
 <p align="center"><img src="https://hearot.it/images/transparent_stroke_pfp.png" style="max-width: 100%; height: auto; width: 200px"/></p>
 
-<p align="center">✨ heyo ✨</p>
+<p align="center">✨ よ！ ✨</p>
 
-as you probably already know, i'm gabriel (aka hearot). there is no meaning behind
-my username, since plenty of people have already asked me (nay, it does not come
-from beowulf either). it is just a random name i made up when i was a kid.
-i live near florence, italy.
+I'm Gabriel, but you can call me **hearot**. This username has no real meaning,
+since plenty of people have asked me (nay, it does not come
+from beowulf either); it's just a random name I made up when I was a kid. I
+live near Florence, Italy.
 
-i'm not a computer science student, nor a programmer, nor a software engineer.
-i'm a maths student at the [university of pisa](https://www.dm.unipi.it/en/).
-nevertheless i'm used to coding scripts and programs whenever i'm feeling to
-(this website is not an exception either). you may find some excerpts of my code
-here on github.
+I study Mathematics at the [University of Pisa](https://www.dm.unipi.it/en/).
+I enjoy playing some videogames, but
+I wouldn't call myself a gamer. I'm a big fan of Formula 1 and Ferrari, by the way.
 
-i enjoy playing some videogames, but
-i wouldn't call myself a gamer. i'm a big fan of formula 1, though. i support
-the ferrari f1 team, and i enjoy watching (almost) every grand prix.
-
-i'm an old fan of telegram, which explains why i'm using it all the time.
-in fact, my first script was a telegram bot that i wrote in php.
-then, i fell in love with python; thus i attended multiple conferences
-regarding it (pycon nove, pycon x, pycon 22) as well as other
-events (golab 2018, golab 2019).
+I'm an old fan of Telegram, which explains why I'm using it all the time. You
+can text me there!
+In fact, my first script was a Telegram bot that I wrote in PHP.
+Then, I fell in love with Python!
