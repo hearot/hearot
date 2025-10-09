@@ -1,7 +1,6 @@
 # hearot
 
-<p align="center"><img src="https://hearot.it/images/transparent_stroke_pfp.jpg"
-        style="max-width: 100%; height: auto; width: 200px" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/hearot/hearot/refs/heads/main/banner.jpg"/></p>
 
 <p align="center">✨ よ！ It's me, <b>hearot</b>! ✨</p>
 <p align="center">
