@@ -1,7 +1,7 @@
 # hearot
 
 <p align="center"><img src="https://raw.githubusercontent.com/hearot/hearot/refs/heads/main/banner.jpg"
-        style="width: 30%;" /></p>
+        style="width: 50%;" /></p>
 
 <p align="center">✨ よ！ It's me, <b>hearot</b>! ✨</p>
 <p align="center">
