@@ -5,9 +5,13 @@
 
 <p align="center">✨ よ！ It's me, <b>hearot</b>! ✨</p>
 <p align="center">
+    <a href="https://matrix.to/#/@hearot:matrix.org"><img
+        src="https://img.shields.io/badge/-%40hearot%3Amatrix.org-181914?style=flat-square&amp;labelColor=181914&amp;logo=matrix&amp;logoColor=white&amp;link=https://matrix.to/#/@hearot:matrix.org"
+            alt="Telegram Badge"></a>
     <a href="https://t.me/hearot"><img
-            src="https://img.shields.io/badge/-hearot-1f7ba3?style=flat-square&amp;labelColor=1f7ba3&amp;logo=telegram&amp;logoColor=white&amp;link=https://t.me/hearot"
-            alt="Telegram Badge"></a> <a href="mailto:gabriel@hearot.it"><img
-            src="https://img.shields.io/badge/-gabriel@hearot.it-c14438?style=flat-square&amp;logo=mail.ru&amp;logoColor=white&amp;link=mailto:gabriel@hearot.it"
+        src="https://img.shields.io/badge/-hearot-1f7ba3?style=flat-square&amp;labelColor=1f7ba3&amp;logo=telegram&amp;logoColor=white&amp;link=https://t.me/hearot"
+            alt="Telegram Badge"></a>
+    <a href="mailto:gabriel@hearot.it"><img
+        src="https://img.shields.io/badge/-gabriel@hearot.it-c14438?style=flat-square&amp;logo=mail.ru&amp;logoColor=white&amp;link=mailto:gabriel@hearot.it"
             alt="Email Badge"></a>
 </p>
